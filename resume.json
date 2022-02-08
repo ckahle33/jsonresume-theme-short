@@ -15,14 +15,14 @@
     },
     "profiles": [
       {
-        "username": "craigkahle",
-        "url": "https://twitter.com/craigkahle",
-        "network": "twitter"
+        "username": "Craig Kahle",
+        "url": "https://www.linkedin.com/in/craig-kahle-53b7652b/",
+        "network": "LinkedIn"
       },
       {
         "url": "https://github.com/ckahle33",
         "username": "ckahle33",
-        "network": "github"
+        "network": "GitHub"
       }
     ]
   },
@@ -45,18 +45,18 @@
   "skills": [
     {
       "keywords": [
-        "SCSS / CSS / HTML5",
-        "Javascript / ES6 / Typescript",
-        "React / JSX"
+        "JavaScript / ES6",
+        "React.js",
+        "Vue"
       ],
       "level": "Mid-Level",
       "name": "Frontend"
     },
     {
-      "keywords": ["Python / Flask / Django",
-        "Ruby / Rails / Sinatra",
-        "PHP / Laravel / Codeigniter",
-        "node.js", "express" 
+      "keywords": ["Python: Flask / Django",
+        "Ruby: Rails / Sinatra",
+        "PHP: Laravel ",
+        "node.js: express"
       ],
       "name": "Backend"
     },
@@ -65,7 +65,11 @@
       "name": "Devops"
     },
     {
-      "keywords": ["GCP Certified Cloud Architect - Issued September 2021"],
+      "keywords": ["Technical Discovery", "POC ideation", "Account Prioritization", "Driving Revenue"],
+      "name": "Pre-Sales"
+    },
+    {
+      "keywords": ["GCP Certified Professional Cloud Architect - Issued September 2021"],
       "name": "Certifications"
     }
   ],
@@ -80,8 +84,9 @@
       "highlights": [
         "Closed two commits in the Central region valued at $17M / 3 years, and $3M / 3 years",
         "Lead advanced technical discovery to uncover ideal POCs" ,
-        "Demonstrate the value propsition of Google Cloud and its products to executives and DCs", 
-        "Manage Partner ISV developers and contribute integration code when needed"
+        "Demonstrate the value propsition of Google Cloud and its products to executives and decision makers", 
+        "Manage Partner ISV developers and contribute integration code when needed",
+        "Prepared customer support traning material for customers and internally"
       ]
     },
     {
@@ -94,7 +99,7 @@
       "endDate": "2021-4-1",
       "highlights": [
         "Support S&P 500 Select and Premium Customers across numerous verticals",
-        "Maintain playbooks and library of 60+ plx/sql queries to join data to trace customer requests",
+        "Maintain playbooks and library of 60+ PLX/SQL queries to join data to trace customer requests",
         "Contributed to an On-Prem -> GCS Data migration PSO tool",
         "Developed internal extension that auto saves complex customer responses in Salesforce used by ~300+"
       ]
@@ -151,6 +156,9 @@
     },
     {
       "name": "Music Production and Performance"
+    },
+    {
+      "name": "Building Desktops (Linux/Windows/hackintosh once upon a time)"
     },
     {
       "name": "Biking"
