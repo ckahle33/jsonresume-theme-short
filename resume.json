@@ -6,7 +6,7 @@
     "name": "Craig Kahle",
     "label": "Cloud Solutions / Web Engineer",
     "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "Solutions Engineer / Web Developer with a focus on infrastructure automation and using the right tool for the job",
+    "summary": "Solutions Architect / Cloud Engineer with a broad skillset focused on infrastructure automation, simplicity and using the right tool for the job",
     "website": "https://craigkahle.com",
     "email": "ckahle33@gmail.com",
     "location": {
@@ -56,23 +56,48 @@
       "keywords": ["Python / Flask / Django",
         "Ruby / Rails / Sinatra",
         "PHP / Laravel / Codeigniter",
-        "Go / Gin", "PostgreSQL", "MySQL"],
+        "node.js", "express" 
+      ],
       "name": "Backend"
     },
     {
-      "keywords": ["GCP", "AWS", "Heroku", "Digital Ocean", "Ansible"],
+      "keywords": ["Docker", "GKE", "GCP", "AWS", "Heroku", "Digital Ocean", "Ansible", "Terraform"],
       "name": "Devops"
+    },
+    {
+      "keywords": ["GCP Certified Cloud Architect - Issued September 2021"],
+      "name": "Certifications"
     }
   ],
   "work": [
     {
-      "summary": "Build Solutions and Assist Advanced / Preimum GCP Customers",
+      "summary": "Design and implement customer architectures in a pre-sales capacity",
+      "website": "https://cloud.google.com",
+      "company": "Google",
+      "location": "Austin, TX",
+      "position": "Cloud Customer Engineer",
+      "startDate": "2021-04-02",
+      "highlights": [
+        "Closed two commits in the Central region valued at $17M / 3 years, and $3M / 3 years",
+        "Lead advanced technical discovery to uncover ideal POCs" ,
+        "Demonstrate the value propsition of Google Cloud and its products to executives and DCs", 
+        "Manage Partner ISV developers and contribute integration code when needed"
+      ]
+    },
+    {
+      "summary": "Troubleshot Issues and Assist Advanced / Preimum GCP Customers",
       "website": "https://cloud.google.com",
       "company": "Google",
       "location": "Austin, TX",
       "position": "Cloud Technical Solutions Engineer",
       "startDate": "2020-02-10",
-      "highlights": ["Support S&P 500 Customers across numerous verticals", "Contributions to an On-Prem -> GCS Data migration PSO tool", "Maintain 2 internal Chrome extensions with 1k+ users"]
+      "endDate": "2021-4-1",
+      "highlights": [
+        "Support S&P 500 Select and Premium Customers across numerous verticals",
+        "Maintain playbooks and library of 60+ plx/sql queries to join data to trace customer requests",
+        "Contributed to an On-Prem -> GCS Data migration PSO tool",
+        "Developed internal extension that auto saves complex customer responses in Salesforce used by ~300+"
+      ]
     },
     {
       "summary": "Tasked with building Payment integrations, writing Ansible scripts, and everything in between",
