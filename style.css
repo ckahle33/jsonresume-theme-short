@@ -1,6 +1,6 @@
-body {
+	body {
 	background: #fff;
-	font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+	font: 16px Helvetica, Arial, sans-serif;
 	line-height: 1.4;
 	margin: 0 0;
 	margin-bottom: 100px;
@@ -34,14 +34,15 @@ blockquote {
 }
 
 /* Resume heading */
-.heading header { 
+.heading header {
 
 }
 
 .heading header h1 {
 	font-size: 180%;
 	margin: 0.5em 0;
-	font-weight: 600;
+	font-weight: bold;
+  letter-spacing: -1px;
 }
 
 .heading header h2 {
@@ -68,9 +69,9 @@ blockquote {
 section h2 {
 	font-size: 140%;
 	margin: 0 0 1em;
-	text-transform: uppercase;
-	color: #BC1B39;
-	font-weight: 400;
+	color: #53b12d;
+	font-weight: bold;
+  letter-spacing: -1px;
 }
 
 /* Experience items */
@@ -104,6 +105,12 @@ section h2 {
 .item .startDate,
 .item .endDate {
 	color: #6B6B6B;
+}
+
+.location {
+  color: #6B6B6B;
+  float: right;
+  margin: 0.2em 1em 0.2em 0;
 }
 
 .item .highlights {
@@ -140,5 +147,3 @@ section h2 {
 	width: 49.5%;
 	border-bottom: 0;
 }
-
-
